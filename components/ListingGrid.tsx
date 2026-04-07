@@ -24,7 +24,7 @@ const listings = [
     location: 'Floating above an ocean of green palms, Makalele Dome Villas has one of the most spectacular settings in the world.',
     price: '$145.50',
     rating: '4.85',
-    image: 'https://images.unsplash.com/photo-1613490908653-b5145749c953?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80',
+    image: 'https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80',
   },
   {
     id: 4,
