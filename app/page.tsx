@@ -7,12 +7,12 @@ import { MapButton } from '@/components/MapButton';
 
 export default function Page() {
   return (
-    <div className="min-h-screen bg-white text-gray-900 flex flex-col font-sans">
+    <div className="min-h-screen bg-white text-neutral-900 flex flex-col font-sans">
       <Header />
-      <div className="sticky top-0 bg-white z-10 border-b border-gray-100 shadow-sm">
+      <div className="sticky top-[73px] bg-white z-40">
         <Categories />
       </div>
-      <main className="flex-1 w-full max-w-[1600px] mx-auto">
+      <main className="flex-1 w-full mx-auto">
         <SubHeader />
         <ListingGrid />
       </main>
