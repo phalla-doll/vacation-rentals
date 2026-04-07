@@ -5,7 +5,7 @@ export function Footer() {
     <footer className="fixed bottom-0 w-full bg-white border-t border-neutral-200 py-3 px-6 md:px-10 xl:px-20 z-30">
       <div className="flex flex-col sm:flex-row items-center justify-between gap-4 text-[14px] text-neutral-600">
         <div className="flex items-center gap-3">
-          <span>© 2023 Airbnb, Inc.</span>
+          <span>© 2024 Haven, Inc.</span>
           <span className="hidden sm:inline">·</span>
           <a href="#" className="hover:underline">Terms</a>
           <span className="hidden sm:inline">·</span>
