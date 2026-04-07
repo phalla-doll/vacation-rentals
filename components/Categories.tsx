@@ -17,7 +17,7 @@ const categories = [
 export function Categories() {
   return (
     <div className="px-6 md:px-10 xl:px-20 pt-5 bg-white border-b border-neutral-200 shadow-sm">
-      <div className="flex items-center justify-between gap-4 overflow-x-auto no-scrollbar w-full">
+      <div className="max-w-7xl mx-auto flex items-center justify-between gap-4 overflow-x-auto no-scrollbar w-full">
         {categories.map((cat) => (
           <button key={cat.name} className={`flex-1 flex flex-col items-center justify-center gap-2 min-w-max pb-4 border-b-2 transition-all duration-200 ${cat.active ? 'border-neutral-900 text-neutral-900' : 'border-transparent text-neutral-500 hover:text-neutral-900 hover:border-neutral-300'}`}>
             <cat.icon size={24} strokeWidth={cat.active ? 2 : 1.5} />
