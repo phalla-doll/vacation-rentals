@@ -8,7 +8,7 @@ const listings = [
     location: 'Located 80 meters from Balian Beach and the famous surf break',
     price: '$100.95',
     rating: '4.9',
-    image: 'https://picsum.photos/seed/villa11/600/600',
+    image: 'https://images.unsplash.com/photo-1499793983690-e29da59ef1c2?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80',
   },
   {
     id: 2,
@@ -16,7 +16,7 @@ const listings = [
     location: 'The spacious villa of about 3000 sqft built in contemporary Thai style.',
     price: '$250.00',
     rating: '4.98',
-    image: 'https://picsum.photos/seed/villa22/600/600',
+    image: 'https://images.unsplash.com/photo-1512917774080-9991f1c4c750?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80',
   },
   {
     id: 3,
@@ -24,7 +24,7 @@ const listings = [
     location: 'Floating above an ocean of green palms, Makalele Dome Villas has one of the most spectacular settings in the world.',
     price: '$145.50',
     rating: '4.85',
-    image: 'https://picsum.photos/seed/villa33/600/600',
+    image: 'https://images.unsplash.com/photo-1613490908653-b5145749c953?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80',
   },
   {
     id: 4,
@@ -32,7 +32,7 @@ const listings = [
     location: 'Villa Ruta II is a sumptuous & Brand New Private Luxury Villa',
     price: '$320.00',
     rating: '5.0',
-    image: 'https://picsum.photos/seed/villa44/600/600',
+    image: 'https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80',
   },
   {
     id: 5,
@@ -40,7 +40,7 @@ const listings = [
     location: 'Experience nature in this stunning architectural masterpiece.',
     price: '$180.00',
     rating: '4.95',
-    image: 'https://picsum.photos/seed/villa55/600/600',
+    image: 'https://images.unsplash.com/photo-1580587771525-78b9dba3b914?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80',
   },
   {
     id: 6,
@@ -48,7 +48,7 @@ const listings = [
     location: 'Uninterrupted ocean views from every room in the house.',
     price: '$450.00',
     rating: '4.92',
-    image: 'https://picsum.photos/seed/villa66/600/600',
+    image: 'https://images.unsplash.com/photo-1510798831971-661eb04b3739?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80',
   },
   {
     id: 7,
@@ -56,7 +56,7 @@ const listings = [
     location: 'Charming 18th-century cottage with modern amenities.',
     price: '$95.00',
     rating: '4.7',
-    image: 'https://picsum.photos/seed/villa77/600/600',
+    image: 'https://images.unsplash.com/photo-1600585154340-be6161a56a0c?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80',
   },
   {
     id: 8,
@@ -64,7 +64,7 @@ const listings = [
     location: 'Luxury living in the heart of the desert with a private pool.',
     price: '$210.00',
     rating: '4.88',
-    image: 'https://picsum.photos/seed/villa88/600/600',
+    image: 'https://images.unsplash.com/photo-1600607687920-4e2a09cf159d?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80',
   },
 ];
 
