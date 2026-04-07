@@ -4,12 +4,8 @@ export function Header() {
   return (
     <header className="border-b border-neutral-200 py-4 px-6 md:px-10 xl:px-20 flex items-center justify-between w-full bg-white sticky top-0 z-50">
       {/* Logo */}
-      <div className="flex items-center text-[#FF385C] font-bold text-xl gap-1.5 w-1/3">
-        <svg width="32" height="32" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.5" strokeLinecap="round" strokeLinejoin="round">
-          <path d="M3 9l9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"></path>
-          <polyline points="9 22 9 12 15 12 15 22"></polyline>
-        </svg>
-        <span className="hidden lg:block tracking-tight text-[22px] font-bold">haven</span>
+      <div className="flex items-center text-[#FF385C] w-1/3">
+        <span className="tracking-tight text-[24px] font-bold">haven</span>
       </div>
 
       {/* Search Bar */}
